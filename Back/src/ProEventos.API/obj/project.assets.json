@@ -1298,11 +1298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas\\Downloads\\PASTAS - Lucas\\Projetos\\proEventos\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas\\Downloads\\PASTAS - Lucas\\Projetos\\proEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
       "projectName": "ProEventos.API",
-      "projectPath": "C:\\Users\\Lucas\\Downloads\\PASTAS - Lucas\\Projetos\\proEventos\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectPath": "C:\\Users\\Lucas\\Downloads\\PASTAS - Lucas\\Projetos\\proEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucas\\Downloads\\PASTAS - Lucas\\Projetos\\proEventos\\back\\src\\ProEventos.API\\obj\\",
+      "outputPath": "C:\\Users\\Lucas\\Downloads\\PASTAS - Lucas\\Projetos\\proEventos\\Back\\src\\ProEventos.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
